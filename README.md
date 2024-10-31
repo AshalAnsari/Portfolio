@@ -1,10 +1,10 @@
-# Responsive Flutter Portfolio Application & Website
+# Portfolio
 
 Thank you for visiting my portfolio website repository. This Flutter-based website serves as a showcase of my skills, projects, certifications, and ways to get in touch with me. The website is designed with a strong focus on responsiveness, ensuring that it looks and works flawlessly across a range of devices, from large desktop screens to compact Android devices.
 
 ## Live Demo
 
-You can explore the live version of the website [Click to see live demo](https://hamad-anwar.github.io/Portfolio/#/).
+You can explore the live version of the website [Click to see live demo](https://ashalansari.netlify.app/).
 
 ## Screenshots
 
@@ -18,7 +18,7 @@ You can explore the live version of the website [Click to see live demo](https:/
 - [Usage Guide](#usage-guide)
 - [Contributions](#contributions)
 - [Contact Me](#contact-me)
-- [License](#license)
+<!-- - [License](#license) -->
 
 ## Key Features
 
@@ -48,7 +48,7 @@ The portfolio website is built using Flutter, a powerful open-source UI software
 To explore and interact with the portfolio website on your local machine, follow these steps:
 
 1. **Clone the Repository:**
-   git clone https://github.com/Hamad-Anwar/Flutter-Responsive-Portfolio-WebApp.git
+   git clone https://github.com/AshalAnsari/ashalansari.github.io.git
 2. **Install Dependencies:**
    flutter pub get
 3. **Run Application**
@@ -63,7 +63,6 @@ Once the website is up and running, you'll find a range of sections to explore:
 - **Certifications:** Explore my certifications, gaining insight into my professional development journey.
 - **Contact:** Reach out to me through provided contact details or social media links.
 
-
 ## Contributions
 
 I welcome contributions and suggestions from the community! If you come across any issues, have ideas for improvements, or wish to contribute in any way, feel free to open an issue or submit a pull request. Let's collaborate to make this portfolio even better!
@@ -72,13 +71,13 @@ I welcome contributions and suggestions from the community! If you come across a
 
 Your feedback and thoughts are highly valued. Feel free to connect with me through:
 
-- **Email:** rh676838@gmail.com
-- **LinkedIn:** [Hamad Anwar](https://www.linkedin.com/in/hamad-anwar)
+- **Email:** ashalansari7398@gmail.com
+- **LinkedIn:** [Ashal Ansari](https://www.linkedin.com/in/ashal-ansari-3a3a731b1/)
 
-## License
+<!-- ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+--- -->
 
-### Designed and developed with ❤️ by [Hamad Anwar](https://www.linkedin.com/in/hamad-anwar/).
+### Designed and developed with by [Ashal Ansari](https://www.linkedin.com/in/ashal-ansari-3a3a731b1/).

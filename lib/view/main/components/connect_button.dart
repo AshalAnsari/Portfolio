@@ -12,11 +12,10 @@ class ConnectButton extends StatelessWidget {
       padding: const EdgeInsets.symmetric(vertical: defaultPadding),
       child: InkWell(
         onTap: () {
-          const String phoneNumber = "00923342652039"; // Your phone number
-          const String message =
-              "Hello I would like to contact you"; // Custom message
-          final Uri url = Uri.parse(
-              "https://wa.me/$phoneNumber?text=${Uri.encodeComponent(message)}");
+          // const String phoneNumber = "00923342652039"; // Your phone number
+          // const String message =
+          //     "Hello I would like to contact you"; // Custom message
+          final Uri url = Uri.parse("https://github.com/AshalAnsari");
           launchUrl(Uri.parse('$url'));
         },
         borderRadius: BorderRadius.circular(defaultPadding + 10),
@@ -44,13 +43,13 @@ class ConnectButton extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 const Icon(
-                  FontAwesomeIcons.whatsapp,
-                  color: Colors.greenAccent,
-                  size: 15,
+                  FontAwesomeIcons.github,
+                  color: Colors.black,
+                  size: 25,
                 ),
                 const SizedBox(width: defaultPadding / 4),
                 Text(
-                  'Whatsapp',
+                  'Github',
                   style: Theme.of(context).textTheme.labelSmall!.copyWith(
                       color: Colors.white,
                       letterSpacing: 1.2,
